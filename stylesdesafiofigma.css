@@ -1,0 +1,90 @@
+* {
+font-family: "Poppins", sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body {
+    background-image:  url( ./1531251_stock-photo-vector-abstract-black-and-white-bookshelf\ \(1\).jpg);
+    
+}
+
+
+ .logo-image {
+    width: 900px;
+    margin-bottom: 5;
+    display: inline-block;
+    margin-top:44px;
+    margin-left: 125px;
+ }
+ 
+ section {
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+h1 {
+    color: #161A49;
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+}
+
+h2 {
+    color: #222658;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+    margin-left: 150px;
+}
+
+
+ nav{
+        margin: 0px 0 5px 125px;
+        display: inline-block;
+ }
+
+.link-header {
+    color: #03153d;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 35px;
+    margin-right: 30px;
+    
+}
+
+button {
+    background: #17233D;
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 40px;
+    border: none;
+    width: 190px;
+    height: 60px;
+    margin-right: 23px;
+}
+
+h3 {
+    color: #222658;
+    font-size: 150px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+    margin-left: 150px;
+    margin-left: 750px;
+}
+
+img {
+    width: 100%;
+    margin-top: 60px;
+}
+.class-2 {
+    margin-top: 250px;
+}
