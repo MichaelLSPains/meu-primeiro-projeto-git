@@ -7,13 +7,12 @@ box-sizing: border-box;
 
 
 body {
-    background-image:  url( ./1531251_stock-photo-vector-abstract-black-and-white-bookshelf\ \(1\).jpg);
-    
+    background-image:  url( ./img/1531251_stock-photo-vector-abstract-black-and-white-bookshelf\ \(1\).jpg);
+    opacity: 100;
 }
 
-
  .logo-image {
-    width: 900px;
+    width: 700px;
     margin-bottom: 5;
     display: inline-block;
     margin-top:44px;
@@ -32,6 +31,7 @@ h1 {
     font-weight: 700;
     line-height: 82px;
     letter-spacing: 0.596px;
+        
 }
 
 h2 {
@@ -43,10 +43,14 @@ h2 {
     margin-left: 150px;
 }
 
-
- nav{
-        margin: 0px 0 5px 125px;
+ header {
+        margin-left: 100px;
         display: inline-block;
+        cursor: pointer;
+    }
+
+ a:hover {
+    color: aqua;
  }
 
 .link-header {
@@ -69,6 +73,11 @@ button {
     width: 190px;
     height: 60px;
     margin-right: 23px;
+    cursor: pointer;
+}
+button:hover {
+    background: aqua;
+    color: #17233D;
 }
 
 h3 {
