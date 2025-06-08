@@ -86,8 +86,7 @@ h3 {
     font-weight: 700;
     line-height: 82px;
     letter-spacing: 0.596px;
-    margin-left: 150px;
-    margin-left: 750px;
+    margin-left: 700px;
 }
 
 img {
@@ -97,4 +96,5 @@ img {
 }
 .class-2 {
     margin-top: 250px;
+    position: static;
 }
